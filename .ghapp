@@ -1,0 +1,10 @@
+{
+  "id": 55193348,
+  "created_at": "2024-09-23T18:51:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ryanchrist.r-universe.dev", "QForm"]
+}
