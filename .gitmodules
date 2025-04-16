@@ -5,6 +5,9 @@
 [submodule "QForm"]
 	path = QForm
 	url = https://github.com/ryanchrist/QForm
+[submodule "locater"]
+	path = locater
+	url = https://github.com/ryanchrist/locater
 [submodule "renyi"]
 	path = renyi
 	url = https://github.com/ryanchrist/renyi
