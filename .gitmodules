@@ -1,10 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ryanchrist/ryanchrist.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "QForm"]
-	path = QForm
-	url = https://github.com/ryanchrist/QForm
-[submodule "renyi"]
-	path = renyi
-	url = https://github.com/ryanchrist/renyi
